@@ -21,7 +21,7 @@ const url = 'https://twitter-trends5.p.rapidapi.com/twitter/request.php';
 const options = {
 	method: 'POST',
 	headers: {
-		'x-rapidapi-key': 'e076883bb0msh5cbdbcbbbedf7e5p1c8eb4jsn0b8922940d8b',
+		'x-rapidapi-key': '39267ca22amsh8f740e73186c2b4p1741c1jsna21c07288b43',
 		'x-rapidapi-host': 'twitter-trends5.p.rapidapi.com',
 		'Content-Type': 'application/x-www-form-urlencoded'
 	},
